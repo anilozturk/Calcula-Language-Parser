@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1426521165 source:c:\users\casper\desktop\calcula language parser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<locale.h>
+	<stdbool.h>
+
